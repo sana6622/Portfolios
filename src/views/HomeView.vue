@@ -121,7 +121,7 @@
                 class="btn btn-outline-primary"
                 type="button"
               >
-                GitHub</a
+                Page</a
               >
               <router-link
                 :to="`/project/${project.id}`"
