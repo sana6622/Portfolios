@@ -7,5 +7,4 @@
 
 
 ### 備註
-此專案為第二版 
-第一版為 https://github.com/sana6622/porfolio (已不使用)
+此專案為第二版，第一版為 https://github.com/sana6622/porfolio (已不使用)
