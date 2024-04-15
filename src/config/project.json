@@ -21,9 +21,8 @@
       },
       {
         "subTitle": "其他套件",
-        "skill": ["SweetAlert", "REMIX ICON", "tsParticles", "AOS"],
+        "skill": ["REMIX ICON", "tsParticles", "AOS"],
         "des": [
-          "使用SweetAlert進行美觀的彈窗提醒和確認消息，提升用戶互動體驗，使應用的提示和警告更加直觀和用戶友好。",
           "使用REMIX ICON圖標套件，引入Icon。",
           "使用tsParticles實現複雜的粒子效果，用於畫面背景以增強網頁的視覺效果。",
           "AOS (Animate On Scroll Library) 技術，為訪客帶來流暢且引人入勝的滾動動畫效果。"
