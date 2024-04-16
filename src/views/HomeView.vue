@@ -31,8 +31,8 @@
             data-aos="flip-down" data-aos-duration="1800"
           >
             <div class="data-time">
-              <p>{{ item.start }}</p>
               <p>{{ item.end }}</p>
+              <p>{{ item.start }}</p>
             </div>
             <div class="data-main">
               <h4>
